@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Currently learning C, Python and SQL.
 <br>
 
 
